@@ -76,6 +76,8 @@ The game deck consists of 4 different types of cards
 
 When the game is started there will be a deck of 5 cards ordered randomly. Each time user clicks on the deck a card is revealed and that card is removed from the deck. A player wins the game once he draws all 5 cards from the deck and there is no card left to draw.
 
+<img width="960" alt="Screenshot 2024-02-25 144140" src="https://github.com/SauravKumar09/Exploding-Kittens-/assets/90619704/f1dcfb50-b3ab-425f-bb4d-949ae49c13de">
+
 ## Rules
 
 - If the card drawn from the deck is a cat card, then the card is removed from the deck.
